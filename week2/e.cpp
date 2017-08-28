@@ -12,5 +12,6 @@ int main(){
 	cout << "a XOR b = " << (a ^ b) << endl; 
 	cout << "Not a = " << (~a) << endl; 
 
+
 	return 0;
 }

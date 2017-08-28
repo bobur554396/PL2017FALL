@@ -11,5 +11,6 @@ int main(){
 	char b = 122;
 	cout << (char) b << endl;
 
+
 	return 0;
 }

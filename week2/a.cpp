@@ -6,6 +6,7 @@ int main(){
 
 	int a = 2;
 
+
 	cout << sizeof(a) << endl;
 
 	cout << "size of short: " << sizeof(short) << endl;
