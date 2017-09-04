@@ -7,10 +7,11 @@ using namespace std;
 int main(){
 
 	int a = 2;
+	cout << "initially a = 2\n";
 
 	int b = a++;
 	cout << "b = a++\n";
-	cout << "a = " << a << " " << "b = "<< b << "\n\n\n"; 
+	cout << "a = " << a << " " << "b = "<< b << "\n\n\n\n"; 
 
 
 

@@ -12,7 +12,7 @@ int main(){
 	float res = sqrt(a);
 
 	//cout << res;
-	printf("%.2f", res);
+	printf("%.3f", res);
 	
 
 

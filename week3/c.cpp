@@ -12,7 +12,6 @@ int main(){
 
 	printf("first number %i\nsecond number %.5f", 2, 3.8);
 
-	 
 
 	return 0;
 }
