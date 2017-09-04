@@ -1,0 +1,25 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+
+int main(){
+
+	int a, b;
+	cin >> a >> b;
+
+	if(a == b){
+		cout << "equal";
+		return 0;
+	} 
+	
+	if(a > b){
+		cout << a;
+	} else {
+		cout << b;
+	}
+
+
+	return 0;
+}
