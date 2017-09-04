@@ -13,7 +13,7 @@ int main(){
 		cout << "A";
 	} else if(a >= 80 && a < 90){
 		cout << "B";
-	} else{
+	} else {
 		cout << "C";
 	}
 
