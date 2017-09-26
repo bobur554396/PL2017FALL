@@ -24,7 +24,7 @@ int main(){
 			mini = a[i];
 	}
 
-	cout << maxi << endl << minig;
+	cout << maxi << endl << mini;
 
 
 
