@@ -9,7 +9,7 @@ int main(){
 
 	int a[n];
 	
-	bool ok = true;
+	bool ok = false;
 
 	for(int i = 0; i < n; i++)
 		cin >> a[i];
@@ -19,12 +19,12 @@ int main(){
 	for(int i = 0; i < n; i++){
 		if(a[i] == x){
 			cout << "YES";
-			ok = false;
+			ok = true;
 			break;
 		}
 	}
 
-	if(ok == true) // if(ok)
+	if(ok == false) // if(!ok)
 		cout << "NO";
 
 
