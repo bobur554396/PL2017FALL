@@ -25,7 +25,7 @@ int main(){
 			if(A[i][j] > maxi)
 				maxi = A[i][j];
 		}
-		cout << maxi << endl;g
+		cout << maxi << endl;
 	}
 
 
