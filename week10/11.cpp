@@ -12,6 +12,12 @@ char toUpper(char c){
 	return (char)code;
 }
 
+char toUpper2(char c){
+	if(c >= 'a' && c <= 'z')
+		c -= 32;
+
+	return c;
+}
 
 int main(){
 
@@ -22,3 +28,4 @@ int main(){
 
 	return 0;
 }
+
