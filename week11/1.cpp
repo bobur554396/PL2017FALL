@@ -20,5 +20,10 @@ int main(){
 
 	p = &b;
 
+	*p = 100;
+
+	cout << b << endl;
+	
+
 	return 0;
 }
