@@ -1,0 +1,7 @@
+5
+Student5 12 4.0
+Student1 18 3.5
+Student3 20 3.6
+Student44 16 3.9
+Student2 19 3.7
+3.7
